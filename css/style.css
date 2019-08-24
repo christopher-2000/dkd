@@ -34,13 +34,12 @@ header{
 header img{
     float: left;
     padding: 25px;
-    width:50px;
+    width: 50px;
 }
 
 header h1{
     float: left;
-    font-size: 40px;
-    white-space: nowrap;
+    font-size: 30px;
     font-family: Calibri;
 }
 
